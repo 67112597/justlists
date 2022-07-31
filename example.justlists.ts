@@ -18,44 +18,12 @@
             "logoURI":"https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
         },
         {
-            "symbol":"WBTC",
-            "address":"TXpw8XeWYeTUd4quDskoUqeQPowRh4jY65",
-            "chainId":1,
-            "decimals":8,
-            "name":"Wrapped BTC",
-            "logoURI":"https://coin.top/production/logo/TXpw8XeWYeTUd4quDskoUqeQPowRh4jY65.png"
-        },
-        {
             "symbol":"ETH",
             "address":"THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
             "chainId":1,
             "decimals":18,
             "name":"Ethereum",
             "logoURI":"https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
-        },
-        {
-            "symbol":"WETH",
-            "address":"TXWkP3jLBqRGojUih1ShzNyDaN5Csnebok",
-            "chainId":1,
-            "decimals":18,
-            "name":"Wrapped ETH",
-            "logoURI":"https://coin.top/production/logo/TXWkP3jLBqRGojUih1ShzNyDaN5Csnebok.png"
-        },
-        {
-            "symbol":"WBTT",
-            "address":"TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
-            "chainId":1,
-            "decimals":6,
-            "name":"Wrapped BitTorrent",
-            "logoURI":"https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
-        },
-        {
-            "symbol":"WTRX",
-            "address":"TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
-            "chainId":1,
-            "decimals":6,
-            "name":"Wrapped TRX",
-            "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png"
         },
         {
             "symbol":"JST",
@@ -66,28 +34,12 @@
             "logoURI":"https://coin.top/production/logo/just_icon.png"
         },
         {
-            "symbol":"WIN",
-            "address":"TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+            "symbol":"YunH",
+            "address":"TVHLxwSekSseGBQdr6iLVF7C7eXo1uoQgr",
             "chainId":1,
             "decimals":6,
-            "name":"WINK",
-            "logoURI":"https://coin.top/profile_images/JKtJTydD_400x400.jpg"
-        },
-        {
-            "symbol":"DICE",
-            "address":"TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd",
-            "chainId":1,
-            "decimals":6,
-            "name":"TRONbetDice",
-            "logoURI":"https://coin.top/production/logo/TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd.jpg"
-        },
-        {
-            "symbol":"LIVE",
-            "address":"TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK",
-            "chainId":1,
-            "decimals":6,
-            "name":"TRONbetLive",
-            "logoURI":"https://coin.top/production/upload/logo/TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK.png"
+            "name":"YunH Token",
+            "logoURI":"https://github.com/67112597/justlists/blob/main/TVHLxwSekSseGBQdr6iLVF7C7eXo1uoQgr.png"
         },
         {
             "symbol":"USDT",
@@ -96,14 +48,6 @@
             "decimals":6,
             "name":"Tether USD",
             "logoURI":"https://coin.top/production/logo/usdtlogo.png"
-        },
-        {
-            "symbol":"USDJ",
-            "address":"TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
-            "chainId":1,
-            "decimals":18,
-            "name":"JUST Stablecoin v1.0",
-            "logoURI":"https://coin.top/production/logo/usdj.png"
         },
         {
             "symbol":"LTC",
